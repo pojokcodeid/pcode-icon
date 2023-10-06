@@ -3,6 +3,7 @@
   "displayName": "PCode Icon",
   "description": "icon minimalis seperti jetbrains",
   "publisher": "PojokCode",
+  "icon": "logo.png",
   "author": {
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
