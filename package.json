@@ -1,0 +1,65 @@
+{
+  "name": "pcode-icon",
+  "displayName": "PCode Icon",
+  "description": "icon minimalis seperti jetbrains",
+  "publisher": "PojokCode",
+  "author": {
+    "name": "Pojok Code",
+    "email": "pojokcodeid@gmail.com"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "build": "vsce package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pojokcodeid/pcode-icon"
+  },
+  "bugs": {
+    "url": "https://github.com/pojokcodeid/pcode-icon/issues"
+  },
+  "license": "MIT",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "jetbrains",
+    "icons",
+    "icon-theme",
+    "theme",
+    "intellij",
+    "webstorm",
+    "idea"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vscode-jetbrains-icon-theme-2023-dark",
+        "label": "JetBrains Icon Theme 2023+ UI Dark",
+        "path": "./themes/2023/theme-dark.json"
+      },
+      {
+        "id": "vscode-jetbrains-icon-theme-2023-dark-minimalis",
+        "label": "JetBrains Icon Theme 2023+ UI Dark Minimalis",
+        "path": "./themes/2023/theme-dark-min.json"
+      },
+      {
+        "id": "vscode-jetbrains-icon-theme-2023-dark-minimalis2",
+        "label": "JetBrains Icon Theme 2023+ UI Dark Minimalis2",
+        "path": "./themes/2023/theme-dark-min2.json"
+      },
+      {
+        "id": "vscode-jetbrains-icon-theme-2023-dark-spesifik",
+        "label": "JetBrains Icon Theme 2023+ UI Dark Spesifik",
+        "path": "./themes/2023/theme-dark-sef.json"
+      }
+    ]
+  }
+}

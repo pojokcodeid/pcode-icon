@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 612 490.05"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bench.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7569636"
+     inkscape:cx="305.92552"
+     inkscape:cy="245.02499"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">folder-bench</title>
+  <path
+     d="M 513.54307,77.976797 H 306 L 251.92774,34.718989 H 98.456933 A 55.093625,55.093625 0 0 0 43.363308,89.812614 V 400.2303 a 55.093625,55.093625 0 0 0 55.093625,55.05071 H 513.54307 A 55.093625,55.093625 0 0 0 568.63669,400.2303 V 133.07042 A 55.093625,55.093625 0 0 0 513.54307,77.976797 Z m 15.44921,146.295503 -125.52489,140.02999 -0.0944,0.10299 a 16.616491,16.616491 0 0 1 -23.47422,1.18444 l -92.57515,-83.18545 -114.35854,127.7307 a 16.71463,16.71463 0 0 1 -24.8904,-22.31554 l 125.55064,-139.95274 0.0944,-0.103 a 16.616491,16.616491 0 0 1 23.47423,-1.18444 l 92.58372,83.15112 114.34137,-127.73069 a 16.71463,16.71463 0 0 1 24.89041,22.31553 z"
+     style="fill:#8e95b2;stroke-width:0.85829"
+     id="path1" />
+</svg>
