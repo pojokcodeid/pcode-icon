@@ -482,7 +482,7 @@
     "groovy": "_file_groovy",
     "handlebars": "_file_handlebars",
     "haxe": "_file_haxe",
-    "html": "_file_html",
+    "html": "file_html",
     "hxml": "_file_haxe",
     "ignore": "_file_git",
     "ini": "_file_settings",

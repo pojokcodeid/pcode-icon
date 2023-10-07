@@ -1,14 +1,14 @@
 {
   "name": "pcode-icon",
   "displayName": "PCode Icon",
-  "description": "icon minimalis seperti jetbrains",
+  "description": "icon minimalis seperti JetBrains",
   "publisher": "PojokCode",
   "icon": "logo.png",
   "author": {
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
   },
-  "version": "0.0.1001",
+  "version": "0.0.1003",
   "engines": {
     "vscode": "^1.70.0"
   },
