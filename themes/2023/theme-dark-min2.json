@@ -1,5 +1,14 @@
 {
   "iconDefinitions": {
+    "coldfusion": {
+      "iconPath": "./icons/coldfusion.svg"
+    },
+    "lib": {
+      "iconPath": "./icons/lib.svg"
+    },
+    "shader": {
+      "iconPath": "./icons/shader.svg"
+    },
     "file_text": {
       "iconPath": "./icons/text_dark.svg"
     },
@@ -549,16 +558,26 @@
     "GRPC": "_folder_grpc"
   },
   "languageIds": {
+    "tex": "_file_tex",
+    "doctex": "_file_tex",
+    "latex": "_file_tex",
+    "latex-expl3": "_file_tex",
+    "ejs": "file_ejs",
+    "hlsl": "shader",
+    "glsl": "shader",
+    "wgsl": "shader",
     "bat": "_file_cmd",
     "c": "_file_c",
     "clojure": "_file_clojure",
     "coffeescript": "_file_coffee",
     "cpp": "_file_cpp",
+    "cuda-cpp": "_file_cpp",
     "csharp": "_file_csharp",
     "css": "_file_css",
     "dart": "_file_dart",
     "diff": "_file_git",
     "dockerfile": "_file_docker",
+    "dockercompose": "_file_docker",
     "fsharp": "_file_fsharp",
     "git-commit": "_file_git",
     "git-rebase": "_file_git",
@@ -576,6 +595,7 @@
     "javascript": "_file_js",
     "javascriptreact": "_file_react",
     "json": "_file_json",
+    "jsonl": "_file_json",
     "jsonc": "_file_json",
     "less": "_file_less",
     "lua": "_file_lua",
@@ -619,7 +639,15 @@
     "apex-anon": "_file_salesforce",
     "vhdl": "_file_vhdl",
     "nix": "_file_nix",
-    "zig": "_file_zig"
+    "zig": "_file_zig",
+    "lang-cfml": "coldfusion",
+    "cfml": "coldfusion",
+    "bibtex": "lib",
+    "bibtex-style": "lib",
+    "vue": "_file_vue",
+    "graphql": "_file_graphql",
+    "julia": "_file_julia",
+    "juliamarkdown": "_file_julia"
   },
   "folderNamesExpanded": {
     "nginx": "_folder_nginx_open",
@@ -706,6 +734,15 @@
     ".sequelizerc": "file_sequelize"
   },
   "fileExtensions": {
+    "jl": "_file_julia",
+    "graphql": "_file_graphql",
+    "gql": "_file_graphql",
+    "lib": "lib",
+    "bib": "lib",
+    "cfml": "coldfusion",
+    "cfc": "coldfusion",
+    "lucee": "coldfusion",
+    "cfm": "coldfusion",
     "css": "file_css",
     "erb": "file_erb",
     "scss": "file_scss",
