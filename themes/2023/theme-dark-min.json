@@ -1,5 +1,6 @@
 {
   "iconDefinitions": {
+    "certificate": { "iconPath": "./icons/certificate.svg" },
     "coldfusion": {
       "iconPath": "./icons/coldfusion.svg"
     },
@@ -510,6 +511,34 @@
   "folderNames": {},
   "folderNamesExpanded": {},
   "fileNames": {
+    "copying": "certificate",
+    "copying.md": "certificate",
+    "copying.rst": "certificate",
+    "copying.txt": "certificate",
+    "copyright": "certificate",
+    "copyright.md": "certificate",
+    "copyright.rst": "certificate",
+    "copyright.txt": "certificate",
+    "license": "certificate",
+    "license-agpl": "certificate",
+    "license-apache": "certificate",
+    "license-bsd": "certificate",
+    "license-mit": "certificate",
+    "license-gpl": "certificate",
+    "license-lgpl": "certificate",
+    "license.md": "certificate",
+    "license.rst": "certificate",
+    "license.txt": "certificate",
+    "licence": "certificate",
+    "licence-agpl": "certificate",
+    "licence-apache": "certificate",
+    "licence-bsd": "certificate",
+    "licence-mit": "certificate",
+    "licence-gpl": "certificate",
+    "licence-lgpl": "certificate",
+    "licence.md": "certificate",
+    "licence.rst": "certificate",
+    "licence.txt": "certificate",
     ".gitignore": "file_gitignore",
     ".gitattributes": "file_gitignore",
     ".gitmodules": "file_gitignore",
@@ -655,6 +684,9 @@
     "juliamarkdown": "_file_julia"
   },
   "fileExtensions": {
+    "cer": "certificate",
+    "cert": "certificate",
+    "crt": "certificate",
     "jl": "_file_julia",
     "graphql": "_file_graphql",
     "gql": "_file_graphql",
