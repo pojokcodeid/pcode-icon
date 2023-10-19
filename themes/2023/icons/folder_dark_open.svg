@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="folder_dark_open.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.8125"
+     inkscape:cx="6.3739837"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path1"
+     style="stroke:none;fill:#80cbc4;fill-opacity:1"
+     d="M 2.6328125 2.5 C 2.0675231 2.5 1.5 3.0475883 1.5 3.8671875 L 1.5 12.132812 C 1.5 12.952412 2.0675231 13.5 2.6328125 13.5 L 13.367188 13.5 C 13.932487 13.5 14.5 12.952412 14.5 12.132812 L 14.5 6 C 14.5 5.1715708 13.828399 4.5 13 4.5 L 8.4667969 4.5 L 8.2539062 4.5 L 8.1054688 4.3457031 L 6.4824219 2.6542969 C 6.388132 2.555997 6.2573136 2.5 6.1210938 2.5 L 2.6328125 2.5 z M 2.7578125 5.5 L 13.1875 5.5 C 13.397285 5.5 13.566406 5.6691214 13.566406 5.8789062 L 13.566406 12.146484 C 13.566406 12.356269 13.397285 12.525391 13.1875 12.525391 L 2.7578125 12.525391 C 2.5480277 12.525391 2.3789062 12.356269 2.3789062 12.146484 L 2.3789062 5.8789062 C 2.3789062 5.6691214 2.5480277 5.5 2.7578125 5.5 z " />
+</svg>
