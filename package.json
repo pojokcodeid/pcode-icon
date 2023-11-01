@@ -8,7 +8,7 @@
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
   },
-  "version": "0.0.1006",
+  "version": "0.0.1007",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -47,6 +47,11 @@
         "path": "./themes/2023/theme-dark.json"
       },
       {
+        "id": "vscode-jetbrains-icon-theme-2023-dark-no-folder",
+        "label": "JetBrains Icon Theme 2023+ UI Dark No Folder",
+        "path": "./themes/2023/theme-dark-empty-folder.json"
+      },
+      {
         "id": "vscode-jetbrains-icon-theme-2023-dark-minimalis",
         "label": "JetBrains Icon Theme 2023+ UI Dark Minimalis",
         "path": "./themes/2023/theme-dark-min.json"
@@ -62,5 +67,16 @@
         "path": "./themes/2023/theme-dark-sef.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "cba644f9-0e02-4fba-994c-40842e2bbbdf",
+    "publisherId": "3f35fc89-152f-4715-9706-6ebf306dd0f7",
+    "publisherDisplayName": "Pojok Code",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "installedTimestamp": 1698327805889,
+    "preRelease": false
   }
 }

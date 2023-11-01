@@ -6,3 +6,17 @@
 
 <a href="https://github.com/cadamsdev/vscode-jetbrains-icon-theme">vscode-jetbrains-icon-theme</a><br>
 <a href="https://github.com/material-theme/vsc-material-theme-icons">Material Theme Icon</a>
+
+## Untuk Setting Jarak Icon Bagian Kiri
+
+- buka file setting.json
+
+```json
+{
+  "workbench.tree.indent": 18,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#52545a"
+  }
+}
+```
