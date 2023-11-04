@@ -8,9 +8,9 @@
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
   },
-  "version": "0.0.1008",
+  "version": "0.0.1010",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
