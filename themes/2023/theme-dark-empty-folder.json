@@ -1,5 +1,14 @@
 {
   "iconDefinitions": {
+    "test-ts": {
+      "iconPath": "./icons/test-ts.svg"
+    },
+    "test-js": {
+      "iconPath": "./icons/test-js.svg"
+    },
+    "test-jsx": {
+      "iconPath": "./icons/test-jsx.svg"
+    },
     "certificate": { "iconPath": "./icons/certificate.svg" },
     "coldfusion": {
       "iconPath": "./icons/coldfusion.svg"
@@ -614,6 +623,40 @@
     "graphql": "_file_graphql"
   },
   "fileExtensions": {
+    "spec.ts": "test-ts",
+    "spec.cts": "test-ts",
+    "spec.mts": "test-ts",
+    "cy.ts": "test-ts",
+    "e2e-spec.ts": "test-ts",
+    "e2e-spec.cts": "test-ts",
+    "e2e-spec.mts": "test-ts",
+    "test.ts": "test-ts",
+    "test.cts": "test-ts",
+    "test.mts": "test-ts",
+    "ts.snap": "test-ts",
+    "spec-d.ts": "test-ts",
+    "test-d.ts": "test-ts",
+    "spec.tsx": "test-jsx",
+    "test.tsx": "test-jsx",
+    "tsx.snap": "test-jsx",
+    "spec.jsx": "test-jsx",
+    "test.jsx": "test-jsx",
+    "jsx.snap": "test-jsx",
+    "cy.jsx": "test-jsx",
+    "cy.tsx": "test-jsx",
+    "spec-d.tsx": "test-jsx",
+    "test-d.tsx": "test-jsx",
+    "spec.js": "test-js",
+    "spec.cjs": "test-js",
+    "spec.mjs": "test-js",
+    "e2e-spec.js": "test-js",
+    "e2e-spec.cjs": "test-js",
+    "e2e-spec.mjs": "test-js",
+    "test.js": "test-js",
+    "test.cjs": "test-js",
+    "test.mjs": "test-js",
+    "js.snap": "test-js",
+    "cy.js": "test-js",
     "cer": "certificate",
     "cert": "certificate",
     "crt": "certificate",
