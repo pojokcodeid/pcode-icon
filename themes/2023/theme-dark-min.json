@@ -1,5 +1,14 @@
 {
   "iconDefinitions": {
+    "nodemon": {
+      "iconPath": "./icons/nodemon.svg"
+    },
+    "blade": {
+      "iconPath": "./icons/blade.svg"
+    },
+    "tsconfig": {
+      "iconPath": "./icons/tsconfig.svg"
+    },
     "test-ts": {
       "iconPath": "./icons/test-ts.svg"
     },
@@ -520,6 +529,14 @@
   "folderNames": {},
   "folderNamesExpanded": {},
   "fileNames": {
+    "nodemon.json": "nodemon",
+    "tsconfig.cjs": "tsconfig",
+    "tsconfig.js": "tsconfig",
+    "tsconfig.json": "tsconfig",
+    "tsconfig.mjs": "tsconfig",
+    "tsconfig.ts": "tsconfig",
+    "tsconfig.yaml": "tsconfig",
+    "tsconfig.yml": "tsconfig",
     "jest.config.js": "_file_jest",
     "jest.config.ts": "_file_jest",
     "jest.config.json": "_file_jest",
@@ -574,7 +591,8 @@
     ".gitmodules": "file_gitignore",
     ".editorconfig": "file_editorconfig",
     ".yarnrc": "file_yarn",
-    "yarn.lock": "file_yarn",
+    "yarn-error.log": "file_yarn",
+    "yarn.lock": "_file_yarn-lock",
     "README": "file_markdown",
     ".dockerignore": "file_ignored",
     "Dockerfile": "file_docker",
@@ -617,8 +635,8 @@
     ".eslintrc.yml": "file_eslint",
     ".eslintrc.yaml": "file_eslint",
     ".eslintignore": "file_eslint",
-    "package.json": "file_nodejs",
-    "package-lock.json": "file_nodejs2",
+    "package.json": "_file_npm",
+    "package-lock.json": "_file_package-lock",
     ".sequelizerc": "file_sequelize"
   },
   "languageIds": {
@@ -714,6 +732,9 @@
     "juliamarkdown": "_file_julia"
   },
   "fileExtensions": {
+    "blade": "blade",
+    "blade.php": "blade",
+    "blade.phtml": "blade",
     "spec.ts": "test-ts",
     "spec.cts": "test-ts",
     "spec.mts": "test-ts",

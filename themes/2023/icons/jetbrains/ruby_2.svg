@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ruby_2.svg"
+   id="svg157"
+   version="1.1"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16">
+  <metadata
+     id="metadata163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs161" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg157"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="7.9083221"
+     inkscape:cx="5.5389542"
+     inkscape:zoom="39.0625"
+     showgrid="false"
+     id="namedview159"
+     inkscape:window-height="995"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <rect
+     fill="none"
+     height="16"
+     width="16"
+     id="frame" />
+  <g
+     id="g155"
+     fill-rule="evenodd"
+     fill="none">
+    <path
+       id="path143"
+       d="M1 16h15V9H1z"
+       fill-opacity=".7"
+       fill="#B99BF8" />
+    <path
+       id="path145"
+       d="M7 1L3 5h4z"
+       fill-opacity=".8"
+       fill="#9AA7B0" />
+    <path
+       id="path147"
+       d="M8 1v5H3v2h10V1z"
+       fill-opacity=".8"
+       fill="#9AA7B0" />
+    <path
+       id="path149"
+       d="M3 12.501C3 11 3.931 10 5.256 10c.946 0 1.294.311 1.713.753l-.542.674C6.077 11.068 5.75 11 5.25 11 4.418 11 4 11.738 4 12.487 4 13.237 4.412 14 5.25 14c.537 0 .802-.107 1.177-.494l.573.638c-.456.525-.803.856-1.775.856C3.949 15 3 14.002 3 12.501z"
+       fill-opacity=".7"
+       fill="#231F20" />
+    <path
+       id="path151"
+       d="M10 12h1v1h-1v1H9v-1H8v-1h1v-1h1v1z"
+       fill-opacity=".7"
+       fill="#231F20" />
+    <path
+       id="path153"
+       d="M14 12h1v1h-1v1h-1v-1h-1v-1h1v-1h1v1z"
+       fill-opacity=".7"
+       fill="#231F20" />
+  </g>
+  <rect
+     y="9"
+     x="1"
+     height="7"
+     width="15"
+     id="rect200"
+     style="fill:#cc342d;fill-rule:evenodd;fill-opacity:1" />
+  <text
+     transform="scale(0.93503877,1.0694744)"
+     id="text206"
+     y="14.398466"
+     x="1.4586625"
+     style="font-style:normal;font-weight:normal;font-size:7.32537px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12511;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.32537px;font-family:System-ui;-inkscape-font-specification:'System-ui Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.12511;"
+       y="14.398466"
+       x="1.4586625"
+       id="tspan204"
+       sodipodi:role="line">RB</tspan></text>
+</svg>

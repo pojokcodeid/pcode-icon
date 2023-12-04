@@ -8,7 +8,7 @@
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
   },
-  "version": "0.0.1015",
+  "version": "0.0.1018",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -42,29 +42,34 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "vscode-jetbrains-icon-theme-2023-dark",
-        "label": "JetBrains Icon Theme 2023+ UI Dark",
+        "id": "pcode-icon-theme-2023-dark",
+        "label": "PCode Icon UI Dark",
         "path": "./themes/2023/theme-dark.json"
       },
       {
-        "id": "vscode-jetbrains-icon-theme-2023-dark-no-folder",
-        "label": "JetBrains Icon Theme 2023+ UI Dark No Folder",
+        "id": "pcode-icon-theme-2023-dark-no-folder",
+        "label": "PCode Icon UI Dark No Folder",
         "path": "./themes/2023/theme-dark-empty-folder.json"
       },
       {
-        "id": "vscode-jetbrains-icon-theme-2023-dark-minimalis",
-        "label": "JetBrains Icon Theme 2023+ UI Dark Minimalis",
+        "id": "pcode-icon-theme-2023-dark-minimalis",
+        "label": "PCode Icon UI Dark Minimalis",
         "path": "./themes/2023/theme-dark-min.json"
       },
       {
-        "id": "vscode-jetbrains-icon-theme-2023-dark-minimalis2",
-        "label": "JetBrains Icon Theme 2023+ UI Dark Minimalis2",
+        "id": "pcode-icon-theme-2023-dark-minimalis2",
+        "label": "PCode Icon UI Dark Minimalis2",
         "path": "./themes/2023/theme-dark-min2.json"
       },
       {
-        "id": "vscode-jetbrains-icon-theme-2023-dark-spesifik",
-        "label": "JetBrains Icon Theme 2023+ UI Dark Spesifik",
+        "id": "pcode-icon-theme-2023-dark-spesifik",
+        "label": "PCode Icon UI Dark Spesifik",
         "path": "./themes/2023/theme-dark-sef.json"
+      },
+      {
+        "id": "pcode-icon-theme-2023-jetbrains",
+        "label": "PCode Icon UI JetBrains",
+        "path": "./themes/2023/jetbrains.json"
       }
     ]
   },
@@ -76,7 +81,7 @@
     "isApplicationScoped": false,
     "updated": true,
     "isPreReleaseVersion": false,
-    "installedTimestamp": 1698327805889,
+    "installedTimestamp": 1701698355963,
     "preRelease": false
   }
 }
