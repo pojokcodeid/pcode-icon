@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "open_dark": {
+      "iconPath": "./icons/folders/open_dark.svg"
+    },
     "nodemon": {
       "iconPath": "./icons/nodemon.svg"
     },
@@ -437,6 +440,7 @@
   },
   "file": "file_text",
   "folder": "folder",
+  "folderExpanded": "open_dark",
   "folderNames": {},
   "fileNames": {
     "package-lock.json": "_file_package-lock",

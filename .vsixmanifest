@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="pcode-icon" Version="0.0.1018" Publisher="PojokCode" />
+			<Identity Language="en-US" Id="pcode-icon" Version="0.0.1019" Publisher="PojokCode" />
 			<DisplayName>PCode Icon</DisplayName>
 			<Description xml:space="preserve">icon minimalis seperti JetBrains</Description>
 			<Tags>jetbrains,icons,icon-theme,theme,intellij,webstorm,idea,__web_extension</Tags>

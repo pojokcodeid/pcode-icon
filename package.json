@@ -1,87 +1,87 @@
 {
-	"name": "pcode-icon",
-	"displayName": "PCode Icon",
-	"description": "icon minimalis seperti JetBrains",
-	"publisher": "PojokCode",
-	"icon": "logo.png",
-	"author": {
-		"name": "Pojok Code",
-		"email": "pojokcodeid@gmail.com"
-	},
-	"version": "0.0.1018",
-	"engines": {
-		"vscode": "^1.60.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"scripts": {
-		"build": "vsce package"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/pojokcodeid/pcode-icon"
-	},
-	"bugs": {
-		"url": "https://github.com/pojokcodeid/pcode-icon/issues"
-	},
-	"license": "MIT",
-	"extensionKind": [
-		"ui",
-		"workspace"
-	],
-	"keywords": [
-		"jetbrains",
-		"icons",
-		"icon-theme",
-		"theme",
-		"intellij",
-		"webstorm",
-		"idea"
-	],
-	"contributes": {
-		"iconThemes": [
-			{
-				"id": "pcode-icon-theme-2023-dark",
-				"label": "PCode Icon UI Dark",
-				"path": "./themes/2023/theme-dark.json"
-			},
-			{
-				"id": "pcode-icon-theme-2023-dark-no-folder",
-				"label": "PCode Icon UI Dark No Folder",
-				"path": "./themes/2023/theme-dark-empty-folder.json"
-			},
-			{
-				"id": "pcode-icon-theme-2023-dark-minimalis",
-				"label": "PCode Icon UI Dark Minimalis",
-				"path": "./themes/2023/theme-dark-min.json"
-			},
-			{
-				"id": "pcode-icon-theme-2023-dark-minimalis2",
-				"label": "PCode Icon UI Dark Minimalis2",
-				"path": "./themes/2023/theme-dark-min2.json"
-			},
-			{
-				"id": "pcode-icon-theme-2023-dark-spesifik",
-				"label": "PCode Icon UI Dark Spesifik",
-				"path": "./themes/2023/theme-dark-sef.json"
-			},
-			{
-				"id": "pcode-icon-theme-2023-jetbrains",
-				"label": "PCode Icon UI JetBrains",
-				"path": "./themes/2023/jetbrains.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "cba644f9-0e02-4fba-994c-40842e2bbbdf",
-		"publisherId": "3f35fc89-152f-4715-9706-6ebf306dd0f7",
-		"publisherDisplayName": "Pojok Code",
-		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
-		"isPreReleaseVersion": false,
-		"installedTimestamp": 1701711138831,
-		"preRelease": false
-	}
+  "name": "pcode-icon",
+  "displayName": "PCode Icon",
+  "description": "icon minimalis seperti JetBrains",
+  "publisher": "PojokCode",
+  "icon": "logo.png",
+  "author": {
+    "name": "Pojok Code",
+    "email": "pojokcodeid@gmail.com"
+  },
+  "version": "0.0.1021",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "build": "vsce package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pojokcodeid/pcode-icon"
+  },
+  "bugs": {
+    "url": "https://github.com/pojokcodeid/pcode-icon/issues"
+  },
+  "license": "MIT",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "jetbrains",
+    "icons",
+    "icon-theme",
+    "theme",
+    "intellij",
+    "webstorm",
+    "idea"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "pcode-icon-theme-dark",
+        "label": "PCode Icon UI Dark",
+        "path": "./themes/2023/theme-dark.json"
+      },
+      {
+        "id": "pcode-icon-theme-dark-no-folder",
+        "label": "PCode Icon UI Dark No Folder",
+        "path": "./themes/2023/theme-dark-empty-folder.json"
+      },
+      {
+        "id": "pcode-icon-theme-dark-minimalis",
+        "label": "PCode Icon UI Dark Minimalis",
+        "path": "./themes/2023/theme-dark-min.json"
+      },
+      {
+        "id": "pcode-icon-theme-dark-minimalis2",
+        "label": "PCode Icon UI Dark Minimalis2",
+        "path": "./themes/2023/theme-dark-min2.json"
+      },
+      {
+        "id": "pcode-icon-theme-dark-spesifik",
+        "label": "PCode Icon UI Dark Spesifik",
+        "path": "./themes/2023/theme-dark-sef.json"
+      },
+      {
+        "id": "pcode-icon-theme-jetbrains",
+        "label": "PCode Icon UI JetBrains",
+        "path": "./themes/2023/jetbrains.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "cba644f9-0e02-4fba-994c-40842e2bbbdf",
+    "publisherId": "3f35fc89-152f-4715-9706-6ebf306dd0f7",
+    "publisherDisplayName": "Pojok Code",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "installedTimestamp": 1701750084144,
+    "preRelease": false
+  }
 }

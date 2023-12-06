@@ -1,5 +1,41 @@
 {
   "iconDefinitions": {
+    "folderPrisma": {
+      "iconPath": "./icons/jetbrains/folders/folderPrisma.svg"
+    },
+    "android": { "iconPath": "./icons/jetbrains/folders/android.svg" },
+    "folder-log": { "iconPath": "./icons/jetbrains/folders/logFolder.svg" },
+    "apple": { "iconPath": "./icons/jetbrains/folders/apple.svg" },
+    "docker": { "iconPath": "./icons/jetbrains/folders/docker.svg" },
+    "folder": { "iconPath": "./icons/jetbrains/folders/folder.svg" },
+    "folder-app": { "iconPath": "./icons/jetbrains/folders/folderapp.svg" },
+    "folder-assets": {
+      "iconPath": "./icons/jetbrains/folders/folderassets.svg"
+    },
+    "folder-blue": { "iconPath": "./icons/jetbrains/folders/folder-blue.svg" },
+    "folder-config": {
+      "iconPath": "./icons/jetbrains/folders/folderconfig.svg"
+    },
+    "folder-gen": { "iconPath": "./icons/jetbrains/folders/foldergen.svg" },
+    "folder-green": {
+      "iconPath": "./icons/jetbrains/folders/folder-green.svg"
+    },
+    "folder-modules": {
+      "iconPath": "./icons/jetbrains/folders/foldermodules.svg"
+    },
+    "folder-orange": {
+      "iconPath": "./icons/jetbrains/folders/folder-orange.svg"
+    },
+    "folder-public": {
+      "iconPath": "./icons/jetbrains/folders/folderpublic.svg"
+    },
+    "folder-purple": {
+      "iconPath": "./icons/jetbrains/folders/folder-purple.svg"
+    },
+    "folder-resources": {
+      "iconPath": "./icons/jetbrains/folders/folderresources.svg"
+    },
+
     "file_composer": {
       "iconPath": "./icons/jetbrains/composer.svg"
     },
@@ -567,10 +603,79 @@
   },
   "file": "_file_dark",
   "folder": "_folder_dark",
-  "folderExpanded": "_folder_dark",
   "folderNames": {
+    "prisma": "folderPrisma",
     "out": "_orange_folder",
-    "test": "_green_folder"
+    ".android": "android",
+    ".config": "folder-config",
+    ".mock": "folder-purple",
+    ".mocks": "folder-purple",
+    ".setting": "folder-config",
+    ".settings": "folder-config",
+    ".test": "folder-green",
+    ".testing": "folder-green",
+    ".tests": "folder-green",
+    ".vscode": "vscode",
+    "__mock__": "folder-purple",
+    "__tests__": "folder-green",
+    "_image": "folder-assets",
+    "_images": "folder-assets",
+    "_img": "folder-assets",
+    "_imgs": "folder-assets",
+    "android": "android",
+    "app": "folder-app",
+    "apps": "folder-app",
+    "assets": "folder-assets",
+    "auto": "folder-gen",
+    "browser": "folder-public",
+    "browsers": "folder-public",
+    "classes": "folder-orange",
+    "code": "folder-blue",
+    "config": "folder-config",
+    "configs": "folder-config",
+    "dmp": "folder-log",
+    "docker": "docker",
+    "gen": "folder-gen",
+    "generate": "folder-gen",
+    "generated": "folder-gen",
+    "generator": "folder-gen",
+    "generators": "folder-gen",
+    "gens": "folder-gen",
+    "image": "folder-assets",
+    "images": "folder-assets",
+    "img": "folder-assets",
+    "imgs": "folder-assets",
+    "ios": "apple",
+    "log": "folder-log",
+    "logs": "folder-log",
+    "main": "folder-blue",
+    "media": "folder-assets",
+    "mock": "folder-purple",
+    "mocks": "folder-purple",
+    "node_modules": "folder-modules",
+    "node_modules.nosync": "folder-modules",
+    "nodemodules": "folder-modules",
+    "public": "folder-public",
+    "resources": "folder-resources",
+    "runnertests": "folder-green",
+    "scripts": "folder-orange",
+    "setting": "folder-config",
+    "settings": "folder-config",
+    "site": "folder-public",
+    "source": "folder-blue",
+    "sources": "folder-blue",
+    "spec": "folder-green",
+    "specs": "folder-green",
+    "src": "folder-blue",
+    "srcs": "folder-blue",
+    "target": "folder-orange",
+    "test": "folder-green",
+    "testing": "folder-green",
+    "tests": "folder-green",
+    "web": "folder-public",
+    "website": "folder-public",
+    "www": "folder-public",
+    "wwwroot": "folder-public"
   },
   "rootFolder": "_root_folder_dark",
   "rootFolderExpanded": "_root_folder_open_dark",
@@ -694,6 +799,7 @@
     "zip": "_jar_file"
   },
   "languageIds": {
+    "dbclient-js": "_js_file",
     "log": "_log_file",
     "jest-snapshot": "_jest_file",
     "tex": "_file_tex",
