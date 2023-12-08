@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "globe": {
+      "iconPath": "./icons/globe.svg"
+    },
     "nodemon": {
       "iconPath": "./icons/nodemon.svg"
     },
@@ -9636,6 +9639,7 @@
     "juliamarkdown": "_file_julia"
   },
   "fileNames": {
+    "cname": "globe",
     "nodemon.json": "nodemon",
     "tsconfig.cjs": "tsconfig",
     "tsconfig.js": "tsconfig",

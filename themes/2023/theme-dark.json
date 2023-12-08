@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "globe": {
+      "iconPath": "./icons/globe.svg"
+    },
     "open_dark": {
       "iconPath": "./icons/folders/open_dark.svg"
     },
@@ -443,6 +446,7 @@
   "folderExpanded": "open_dark",
   "folderNames": {},
   "fileNames": {
+    "cname": "globe",
     "package-lock.json": "_file_package-lock",
     "nodemon.json": "nodemon",
     "tsconfig.cjs": "tsconfig",

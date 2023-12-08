@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "globe": {
+      "iconPath": "./icons/globe.svg"
+    },
     "folderPrisma": {
       "iconPath": "./icons/jetbrains/folders/folderPrisma.svg"
     },
@@ -894,6 +897,7 @@
     "graphql": "_file_graphql"
   },
   "fileNames": {
+    "cname": "globe",
     "composer.json": "file_composer",
     "composer.lock": "file_composer",
     "package-lock.json": "_file_package-lock",
