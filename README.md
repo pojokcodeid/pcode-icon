@@ -9,7 +9,10 @@
 ## Terima Kasih Untuk
 
 <a href="https://github.com/cadamsdev/vscode-jetbrains-icon-theme">vscode-jetbrains-icon-theme</a><br>
-<a href="https://github.com/material-theme/vsc-material-theme-icons">Material Theme Icon</a>
+<a href="https://github.com/material-theme/vsc-material-theme-icons">Material Theme Icon</a><br>
+<a href="https://github.com/antfu/vscode-icons-carbon">vscode-icons-carbon</a><br>
+<a href="https://github.com/PKief/vscode-material-product-icons">vscode-material-product-icons</a><br>
+<a href="https://github.com/pojokcodeid/vscode-fluent-icon-theme">vscode-fluent-icon-theme</a>
 
 ## Untuk Setting Jarak Icon Bagian Kiri
 

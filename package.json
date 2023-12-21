@@ -8,7 +8,7 @@
     "name": "Pojok Code",
     "email": "pojokcodeid@gmail.com"
   },
-  "version": "0.0.1024",
+  "version": "0.0.1025",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -40,6 +40,23 @@
     "idea"
   ],
   "contributes": {
+    "productIconThemes": [
+      {
+        "id": "fluenticon",
+        "label": "Fluent Icon",
+        "path": "./themes/producticon/fluent-icons.json"
+      },
+      {
+        "id": "materialproducticon",
+        "label": "Material Product Icon",
+        "path": "./themes/producticon/material.product-icon-theme.json"
+      },
+      {
+        "id": "iconcarbon",
+        "label": "Carbon Icon",
+        "path": "./themes/producticon/icons-carbon.json"
+      }
+    ],
     "iconThemes": [
       {
         "id": "pcode-icon-theme-dark",
@@ -81,7 +98,8 @@
     "isApplicationScoped": false,
     "updated": true,
     "isPreReleaseVersion": false,
-    "installedTimestamp": 1701750084144,
-    "preRelease": false
+    "installedTimestamp": 1702731496590,
+    "preRelease": false,
+    "pinned": false
   }
 }
