@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "asciidoc": {
+      "iconPath": "./icons/asciidoc.svg"
+    },
     "svgo": {
       "iconPath": "./icons/svgo.svg"
     },
@@ -707,6 +710,9 @@
     "GRPC": "_folder_grpc_open"
   },
   "fileNames": {
+    "gradle.properties": "_file_gradle",
+    "gradlew": "_file_gradle",
+    "gradle-wrapper.properties": "_file_gradle",
     "svgo.config.js": "svgo",
     "svgo.config.cjs": "svgo",
     "svgo.config.mjs": "svgo",
@@ -999,6 +1005,9 @@
     ".sequelizerc": "file_sequelize"
   },
   "fileExtensions": {
+    "ad": "asciidoc",
+    "adoc": "asciidoc",
+    "asciidoc": "asciidoc",
     "surrealql": "_file_surrealql",
     "surql": "_file_surrealql",
     "astro": "_file_astro",
