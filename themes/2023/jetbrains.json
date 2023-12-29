@@ -1,5 +1,14 @@
 {
   "iconDefinitions": {
+    "roadmap": {
+      "iconPath": "./icons/roadmap.svg"
+    },
+    "lock": {
+      "iconPath": "./icons/lock.svg"
+    },
+    "renovate": {
+      "iconPath": "./icons/renovate.svg"
+    },
     "capacitor": {
       "iconPath": "./icons/capacitor.svg"
     },
@@ -824,7 +833,7 @@
     "liquid": "_file_liquid",
     "lit": "_file_html",
     "lnk": "_file_lnk",
-    "lock": "_file_ruby",
+    "lock": "lock",
     "lua": "_file_lua",
     "m": "_file_matlab",
     "m2v": "_file_movie",
@@ -1204,6 +1213,39 @@
     "graphql": "_file_graphql"
   },
   "fileNames": {
+    "contributing.md": "_file_contributing",
+    "contributing.rst": "_file_contributing",
+    "contributing.txt": "_file_contributing",
+    "contributing": "_file_contributing",
+    "changelog": "_file_changelog",
+    "changelog.md": "_file_changelog",
+    "changelog.rst": "_file_changelog",
+    "changelog.txt": "_file_changelog",
+    "changes": "_file_changelog",
+    "changes.md": "_file_changelog",
+    "changes.rst": "_file_changelog",
+    "changes.txt": "_file_changelog",
+    "code_of_conduct.md": "_file_conduct",
+    "code_of_conduct.txt": "_file_conduct",
+    "code_of_conduct": "_file_conduct",
+    "readme.md": "_file_readme",
+    "readme.rst": "_file_readme",
+    "readme.txt": "_file_readme",
+    "readme": "_file_readme",
+    "roadmap.md": "roadmap",
+    "roadmap.txt": "roadmap",
+    "timeline.md": "roadmap",
+    "timeline.txt": "roadmap",
+    "milestones.md": "roadmap",
+    "milestones.txt": "roadmap",
+    "security.md": "lock",
+    "security.txt": "lock",
+    "security": "lock",
+    ".renovaterc": "renovate",
+    ".renovaterc.json": "renovate",
+    "renovate-config.json": "renovate",
+    "renovate.json": "renovate",
+    "renovate.json5": "renovate",
     "capacitor.config.json": "capacitor",
     "capacitor.config.ts": "capacitor",
     "karma.conf.js": "karma",
