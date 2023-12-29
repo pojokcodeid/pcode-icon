@@ -1,5 +1,20 @@
 {
   "iconDefinitions": {
+    "capacitor": {
+      "iconPath": "./icons/capacitor.svg"
+    },
+    "karma": {
+      "iconPath": "./icons/karma.svg"
+    },
+    "tsconfig": {
+      "iconPath": "./icons/tsconfig.svg"
+    },
+    "vercel": {
+      "iconPath": "./icons/vercel.svg"
+    },
+    "jsconfig": {
+      "iconPath": "./icons/jsconfig.svg"
+    },
     "asciidoc": {
       "iconPath": "./icons/asciidoc.svg"
     },
@@ -690,6 +705,7 @@
   "rootFolder": "_root_folder_dark",
   "rootFolderExpanded": "_root_folder_open_dark",
   "fileExtensions": {
+    "jsconfig.json": "jsconfig",
     "ad": "asciidoc",
     "adoc": "asciidoc",
     "asciidoc": "asciidoc",
@@ -1188,6 +1204,72 @@
     "graphql": "_file_graphql"
   },
   "fileNames": {
+    "capacitor.config.json": "capacitor",
+    "capacitor.config.ts": "capacitor",
+    "karma.conf.js": "karma",
+    "karma.conf.ts": "karma",
+    "karma.conf.coffee": "karma",
+    "karma.config.js": "karma",
+    "karma.config.ts": "karma",
+    "karma-main.js": "karma",
+    "karma-main.ts": "karma",
+    "tsconfig.json": "tsconfig",
+    "tsconfig.app.json": "tsconfig",
+    "tsconfig.editor.json": "tsconfig",
+    "tsconfig.spec.json": "tsconfig",
+    "tsconfig.base.json": "tsconfig",
+    "tsconfig.build.json": "tsconfig",
+    "tsconfig.eslint.json": "tsconfig",
+    "tsconfig.lib.json": "tsconfig",
+    "tsconfig.lib.prod.json": "tsconfig",
+    "tsconfig.node.json": "tsconfig",
+    "tsconfig.test.json": "tsconfig",
+    "tsconfig.e2e.json": "tsconfig",
+    "tsconfig.web.json": "tsconfig",
+    "tsconfig.webworker.json": "tsconfig",
+    "tsconfig.worker.json": "tsconfig",
+    "tsconfig.config.json": "tsconfig",
+    "tsconfig.vitest.json": "tsconfig",
+    "tsconfig.cjs.json": "tsconfig",
+    "tsconfig.esm.json": "tsconfig",
+    "tsconfig.mjs.json": "tsconfig",
+    "tsconfig.doc.json": "tsconfig",
+    "tsconfig.paths.json": "tsconfig",
+    "tsconfig.main.json": "tsconfig",
+    "tsconfig.renderer.json": "tsconfig",
+    "ionic.config.json": "_file_ionic",
+    ".io-config.json": "_file_ionic",
+    "vercel.json": "vercel",
+    ".vercelignore": "vercel",
+    "now.json": "vercel",
+    ".nowignore": "vercel",
+    "gulpfile.js": "_file_gulp",
+    "gulpfile.mjs": "_file_gulp",
+    "gulpfile.ts": "_file_gulp",
+    "gulpfile.cts": "_file_gulp",
+    "gulpfile.mts": "_file_gulp",
+    "gulpfile.babel.js": "_file_gulp",
+    ".babelrc": "_file_babel",
+    ".babelrc.cjs": "_file_babel",
+    ".babelrc.js": "_file_babel",
+    ".babelrc.mjs": "_file_babel",
+    ".babelrc.json": "_file_babel",
+    "babel.config.cjs": "_file_babel",
+    "babel.config.js": "_file_babel",
+    "babel.config.mjs": "_file_babel",
+    "babel.config.json": "_file_babel",
+    "babel-transform.js": "_file_babel",
+    ".babel-plugin-macrosrc": "_file_babel",
+    ".babel-plugin-macrosrc.json": "_file_babel",
+    ".babel-plugin-macrosrc.yaml": "_file_babel",
+    ".babel-plugin-macrosrc.yml": "_file_babel",
+    ".babel-plugin-macrosrc.js": "_file_babel",
+    "babel-plugin-macros.config.js": "_file_babel",
+    "jsconfig.json": "jsconfig",
+    "next.config.js": "_file_nextjs",
+    "next.config.mjs": "_file_nextjs",
+    "next.config.ts": "_file_nextjs",
+    "next.config.mts": "_file_nextjs",
     "browserslist": "_file_browserlist",
     ".browserslistrc": "_file_browserlist",
     ".stylelintrc": "_file_stylelint",
