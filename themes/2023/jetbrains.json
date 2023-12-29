@@ -1,5 +1,20 @@
 {
   "iconDefinitions": {
+    "laravel": {
+      "iconPath": "./icons/laravel.svg"
+    },
+    "phpunit": {
+      "iconPath": "./icons/phpunit.svg"
+    },
+    "heroku": {
+      "iconPath": "./icons/heroku.svg"
+    },
+    "travis": {
+      "iconPath": "./icons/travis.svg"
+    },
+    "maven": {
+      "iconPath": "./icons/maven.svg"
+    },
     "roadmap": {
       "iconPath": "./icons/roadmap.svg"
     },
@@ -714,6 +729,8 @@
   "rootFolder": "_root_folder_dark",
   "rootFolderExpanded": "_root_folder_open_dark",
   "fileExtensions": {
+    "blade.php": "_file_blade",
+    "inky.php": "_file_blade",
     "jsconfig.json": "jsconfig",
     "ad": "asciidoc",
     "adoc": "asciidoc",
@@ -816,7 +833,6 @@
     "iml": "_file_xml",
     "inc": "_file_assembly",
     "ini": "_file_settings",
-    "inky.php": "_file_blade",
     "ino": "_file_arduino",
     "ipynb": "_file_jupyter",
     "jade": "_file_pug",
@@ -1068,6 +1084,7 @@
     "class": "_java_file",
     "java": "_java_file",
     "kt": "_kotlin_file",
+    "kts": "_kotlin_file",
     "scala": "_scala_file",
     "sc": "_scala_file",
     "cpp": "_cpp_file",
@@ -1213,6 +1230,20 @@
     "graphql": "_file_graphql"
   },
   "fileNames": {
+    "artisan": "_file_blade",
+    ".phpunit.result.cache": "phpunit",
+    ".phpunit-watcher.yml": "phpunit",
+    "phpunit.xml": "phpunit",
+    "phpunit.xml.dist": "phpunit",
+    "phpunit-watcher.yml": "phpunit",
+    "phpunit-watcher.yml.dist": "phpunit",
+    "procfile": "heroku",
+    "procfile.windows": "heroku",
+    ".travis.yml": "travis",
+    "maven.config": "maven",
+    "jvm.config": "maven",
+    "pom.xml": "maven",
+    ".mailmap": "_file_email",
     "contributing.md": "_file_contributing",
     "contributing.rst": "_file_contributing",
     "contributing.txt": "_file_contributing",
@@ -1546,6 +1577,11 @@
     "vite.config.ts": "file_vite",
     "nodemon.json": "nodemon",
     "package.json": "_file_npm",
+    ".npmignore": "_file_npm",
+    ".npmrc": "_file_npm",
+    ".nvmrc": "_file_npm",
+    ".esmrc": "_file_npm",
+    ".node-version": "_file_npm",
     ".sequelizerc": "file_sequelize",
     ".yarnrc": "file_yarn",
     "yarn-error.log": "file_yarn",

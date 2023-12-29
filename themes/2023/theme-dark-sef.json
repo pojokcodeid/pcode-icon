@@ -1,5 +1,20 @@
 {
   "iconDefinitions": {
+    "laravel": {
+      "iconPath": "./icons/laravel.svg"
+    },
+    "phpunit": {
+      "iconPath": "./icons/phpunit.svg"
+    },
+    "heroku": {
+      "iconPath": "./icons/heroku.svg"
+    },
+    "travis": {
+      "iconPath": "./icons/travis.svg"
+    },
+    "maven": {
+      "iconPath": "./icons/maven.svg"
+    },
     "roadmap": {
       "iconPath": "./icons/roadmap.svg"
     },
@@ -9667,6 +9682,20 @@
     "juliamarkdown": "_file_julia"
   },
   "fileNames": {
+    "artisan": "_file_blade",
+    ".phpunit.result.cache": "phpunit",
+    ".phpunit-watcher.yml": "phpunit",
+    "phpunit.xml": "phpunit",
+    "phpunit.xml.dist": "phpunit",
+    "phpunit-watcher.yml": "phpunit",
+    "phpunit-watcher.yml.dist": "phpunit",
+    "procfile": "heroku",
+    "procfile.windows": "heroku",
+    ".travis.yml": "travis",
+    "maven.config": "maven",
+    "jvm.config": "maven",
+    "pom.xml": "maven",
+    ".mailmap": "_file_email",
     "contributing.md": "_file_contributing",
     "contributing.rst": "_file_contributing",
     "contributing.txt": "_file_contributing",
@@ -10064,6 +10093,11 @@
     ".eslintrc.yaml": "file_eslint",
     ".eslintignore": "file_eslint",
     "package.json": "_file_npm",
+    ".npmignore": "_file_npm",
+    ".npmrc": "_file_npm",
+    ".nvmrc": "_file_npm",
+    ".esmrc": "_file_npm",
+    ".node-version": "_file_npm",
     "package-lock.json": "_file_package-lock",
     ".sequelizerc": "file_sequelize"
   },
@@ -10420,6 +10454,7 @@
     "scss": "file_scss",
     "sass": "file_scss",
     "kt": "file_kotlin",
+    "kts": "file_kotlin",
     "json": "file_json",
     "html": "file_html",
     "jsx": "file_react",
