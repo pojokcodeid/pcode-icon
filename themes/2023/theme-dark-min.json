@@ -1,5 +1,65 @@
 {
   "iconDefinitions": {
+    "template": {
+      "iconPath": "./icons/template.svg"
+    },
+    "vim": {
+      "iconPath": "./icons/vim.svg"
+    },
+    "bucklescript": {
+      "iconPath": "./icons/bucklescript.svg"
+    },
+    "smarty": {
+      "iconPath": "./icons/smarty.svg"
+    },
+    "purescript": {
+      "iconPath": "./icons/purescript.svg"
+    },
+    "livescript": {
+      "iconPath": "./icons/livescript.svg"
+    },
+    "dart_generated": {
+      "iconPath": "./icons/dart_generated.svg"
+    },
+    "otne": {
+      "iconPath": "./icons/otne.svg"
+    },
+    "python-misc": {
+      "iconPath": "./icons/python-misc.svg"
+    },
+    "rc": {
+      "iconPath": "./icons/rc.svg"
+    },
+    "hpp": {
+      "iconPath": "./icons/hpp.svg"
+    },
+    "javaclass": {
+      "iconPath": "./icons/javaclass.svg"
+    },
+    "hex": {
+      "iconPath": "./icons/hex.svg"
+    },
+    "vala": {
+      "iconPath": "./icons/vala.svg"
+    },
+    "qsharp": {
+      "iconPath": "./icons/qsharp.svg"
+    },
+    "kusto": {
+      "iconPath": "./icons/kusto.svg"
+    },
+    "vscode": {
+      "iconPath": "./icons/vscode.svg"
+    },
+    "routing": {
+      "iconPath": "./icons/routing.svg"
+    },
+    "twine": {
+      "iconPath": "./icons/twine.svg"
+    },
+    "jinja": {
+      "iconPath": "./icons/jinja.svg"
+    },
     "laravel": {
       "iconPath": "./icons/laravel.svg"
     },
@@ -272,7 +332,7 @@
       "iconPath": "./icons/cmd_dark.svg"
     },
     "file_ps1": {
-      "iconPath": "./icons/powershell.png"
+      "iconPath": "./icons/powershell.svg"
     },
     "file_nodejs": {
       "iconPath": "./icons/nodejs.svg"
@@ -575,6 +635,21 @@
   "folderNames": {},
   "folderNamesExpanded": {},
   "fileNames": {
+    ".git": "_file_git",
+    ".gitmessage": "_file_git",
+    ".gitignore-global": "_file_git",
+    ".gitignore_global": "_file_git",
+    ".gitattributes-global": "_file_git",
+    ".gitattributes_global": "_file_git",
+    ".gitconfig": "_file_git",
+    ".gitkeep": "_file_git",
+    ".keep": "_file_git",
+    ".gitpreserve": "_file_git",
+    ".gitinclude": "_file_git",
+    ".git-blame-ignore": "_file_git",
+    ".git-blame-ignore-revs": "_file_git",
+    ".git-for-windows-updater": "_file_git",
+    "git-history": "_file_git",
     "artisan": "_file_blade",
     ".phpunit.result.cache": "phpunit",
     ".phpunit-watcher.yml": "phpunit",
@@ -995,6 +1070,7 @@
     ".sequelizerc": "file_sequelize"
   },
   "languageIds": {
+    "viml": "vim",
     "tex": "_file_tex",
     "doctex": "_file_tex",
     "latex": "_file_tex",
@@ -1087,6 +1163,152 @@
     "juliamarkdown": "_file_julia"
   },
   "fileExtensions": {
+    "template": "template",
+    "vimrc": "vim",
+    "gvimrc": "vim",
+    "exrc": "vim",
+    "vim": "vim",
+    "viminfo": "vim",
+    "htm": "file_html",
+    "xhtml": "file_html",
+    "html_vm": "file_html",
+    "tsbuildinfo": "file_json",
+    "json5": "file_json",
+    "jsonl": "file_json",
+    "ndjson": "file_json",
+    "hjson": "file_json",
+    "jinja": "jinja",
+    "jinja2": "jinja",
+    "j2": "jinja",
+    "jinja-html": "jinja",
+    "sublime-project": "_file_sublime",
+    "sublime-workspace": "_file_sublime",
+    "tw": "twine",
+    "twee": "twine",
+    "yml.dist": "_file_yaml",
+    "yaml.dist": "_file_yaml",
+    "xml.dist": "_file_xml",
+    "xml.dist.sample": "_file_xml",
+    "dmn": "_file_xml",
+    "jrxml": "_file_xml",
+    "avif": "file_image",
+    "afphoto": "file_image",
+    "ase": "file_image",
+    "aseprite": "file_image",
+    "clip": "file_image",
+    "cpt": "file_image",
+    "heif": "file_image",
+    "heic": "file_image",
+    "kra": "file_image",
+    "mdp": "file_image",
+    "ora": "file_image",
+    "pdn": "file_image",
+    "reb": "file_image",
+    "sai": "file_image",
+    "tga": "file_image",
+    "xcf": "file_image",
+    "jfif": "file_image",
+    "ppm": "file_image",
+    "pgm": "file_image",
+    "pnm": "file_image",
+    "icns": "file_image",
+    "routing.tsx": "routing",
+    "routing.jsx": "routing",
+    "routes.ts": "routing",
+    "routes.tsx": "routing",
+    "routes.js": "routing",
+    "routes.jsx": "routing",
+    "option": "_file_settings",
+    "sln.dotsettings": "_file_settings",
+    "sln.dotsettings.user": "_file_settings",
+    "xlsm": "_file_table",
+    "tsv": "_file_table",
+    "psv": "_file_table",
+    "ods": "_file_table",
+    "vsix": "vscode",
+    "code-workplace": "vscode",
+    "code-workspace": "vscode",
+    "code-profile": "vscode",
+    "code-snippets": "vscode",
+    "ruleset": "_file_visualstudio",
+    "vbs": "_file_visualstudio",
+    "vcxitems": "_file_visualstudio",
+    "vcxitems.filters": "_file_visualstudio",
+    "vcxproj": "_file_visualstudio",
+    "vcxproj.filters": "_file_visualstudio",
+    "pks": "_file_database",
+    "pkb": "_file_database",
+    "sqlite3": "_file_database",
+    "pgsql": "_file_database",
+    "postgres": "_file_database",
+    "psql": "_file_database",
+    "db3": "_file_database",
+    "kql": "kusto",
+    "csharp": "_file_csharp",
+    "qs": "qsharp",
+    "lzma": "_file_zip",
+    "lz4": "_file_zip",
+    "br": "_file_zip",
+    "bz2": "_file_zip",
+    "brotli": "_file_zip",
+    "tz": "_file_zip",
+    "txz": "_file_zip",
+    "zst": "_file_zip",
+    "vala": "vala",
+    "dat": "hex",
+    "bin": "hex",
+    "hex": "hex",
+    "class": "javaclass",
+    "i": "_file_c",
+    "mi": "_file_c",
+    "cp": "_file_cpp",
+    "mii": "_file_cpp",
+    "ii": "_file_cpp",
+    "h++": "hpp",
+    "hp": "hpp",
+    "tcc": "hpp",
+    "inl": "hpp",
+    "rc": "rc",
+    "pyc": "python-misc",
+    "whl": "python-misc",
+    "exp": "_file_console",
+    "nu": "_file_console",
+    "psm1": "file_ps1",
+    "psd1": "file_ps1",
+    "ps1xml": "file_ps1",
+    "psc1": "file_ps1",
+    "pssc": "file_ps1",
+    "odt": "_file_word",
+    "gpg": "_file_key",
+    "passwd": "_file_key",
+    "rbs": "file_ruby",
+    "docker-compose.yml": "file_docker",
+    "docker-compose.yaml": "file_docker",
+    "containerignore": "file_docker",
+    "containerfile": "file_docker",
+    "compose.yaml": "file_docker",
+    "compose.yml": "file_docker",
+    "dtx": "_file_tex",
+    "ltx": "_file_tex",
+    "odp": "_file_powerpoint",
+    "wav": "_file_audio",
+    "cson": "_file_coffee",
+    "iced": "_file_coffee",
+    "ron": "file_rust",
+    "otne": "otne",
+    "cljs": "_file_clojure",
+    "cljc": "_file_clojure",
+    "rmd": "_file_r",
+    "freezed.dart": "dart_generated",
+    "g.dart": "dart_generated",
+    "raku": "_file_perl",
+    "leex": "_file_elixir",
+    "heex": "_file_elixir",
+    "ls": "livescript",
+    "pure": "purescript",
+    "purs": "purescript", 
+    "tpl": "smarty",
+    "cmj": "bucklescript",
     "jsconfig.json": "jsconfig",
     "ad": "asciidoc",
     "adoc": "asciidoc",
