@@ -1,5 +1,119 @@
 {
   "iconDefinitions": {
+    "stylable": {
+      "iconPath": "./icons/stylable.svg"
+    },
+    "cadence": {
+      "iconPath": "./icons/cadence.svg"
+    },
+    "tree": {
+      "iconPath": "./icons/tree.svg"
+    },
+    "wolframlanguage": {
+      "iconPath": "./icons/wolframlanguage.svg"
+    },
+    "gemini": {
+      "iconPath": "./icons/gemini.svg"
+    },
+    "chess": {
+      "iconPath": "./icons/chess.svg"
+    },
+    "idris": {
+      "iconPath": "./icons/idris.svg"
+    },
+    "lolcode": {
+      "iconPath": "./icons/lolcode.svg"
+    },
+    "grain": {
+      "iconPath": "./icons/grain.svg"
+    },
+    "minecraft": {
+      "iconPath": "./icons/minecraft.svg"
+    },
+    "search": {
+      "iconPath": "./icons/search.svg"
+    },
+    "sas": {
+      "iconPath": "./icons/sas.svg"
+    },
+    "sml": {
+      "iconPath": "./icons/sml.svg"
+    },
+    "pawn": {
+      "iconPath": "./icons/pawn.svg"
+    },
+    "prolog": {
+      "iconPath": "./icons/prolog.svg"
+    },
+    "godot-assets": {
+      "iconPath": "./icons/godot-assets.svg"
+    },
+    "godot": {
+      "iconPath": "./icons/godot.svg"
+    },
+    "django": {
+      "iconPath": "./icons/django.svg"
+    },
+    "hcl": {
+      "iconPath": "./icons/hcl.svg"
+    },
+    "processing": {
+      "iconPath": "./icons/processing.svg"
+    },
+    "hack": {
+      "iconPath": "./icons/hack.svg"
+    },
+    "dhall": {
+      "iconPath": "./icons/dhall.svg"
+    },
+    "riot": {
+      "iconPath": "./icons/riot.svg"
+    },
+    "apiblueprint": {
+      "iconPath": "./icons/apiblueprint.svg"
+    },
+    "nim": {
+      "iconPath": "./icons/nim.svg"
+    },
+    "cucumber": {
+      "iconPath": "./icons/cucumber.svg"
+    },
+    "cake": {
+      "iconPath": "./icons/cake.svg"
+    },
+    "yang": {
+      "iconPath": "./icons/yang.svg"
+    },
+    "autoit": {
+      "iconPath": "./icons/autoit.svg"
+    },
+    "solidity": {
+      "iconPath": "./icons/solidity.svg"
+    },
+    "robot": {
+      "iconPath": "./icons/robot.svg"
+    },
+    "mojo": {
+      "iconPath": "./icons/mojo.svg"
+    },
+    "razor": {
+      "iconPath": "./icons/razor.svg"
+    },
+    "blink": {
+      "iconPath": "./icons/blink.svg"
+    },
+    "shaderlab": {
+      "iconPath": "./icons/shaderlab.svg"
+    },
+    "percy": {
+      "iconPath": "./icons/percy.svg"
+    },
+    "codeowners": {
+      "iconPath": "./icons/codeowners.svg"
+    },
+    "playwright": {
+      "iconPath": "./icons/playwright.svg"
+    },
     "template": {
       "iconPath": "./icons/template.svg"
     },
@@ -683,6 +797,47 @@
     "GRPC": "_folder_grpc"
   },
   "languageIds": {
+    "shaderlab": "shaderlab",
+    "blink": "blink",
+    "razor": "razor",
+    "aspnetcorerazor": "razor",
+    "mojo": "mojo",
+    "robotframework": "robot",
+    "solidity": "solidity",
+    "autoit": "autoit",
+    "yang": "yang",
+    "cake": "cake",
+    "cucumber": "cucumber",
+    "nim": "nim",
+    "nimble": "nim",
+    "apiblueprint": "apiblueprint",
+    "riot": "riot",
+    "dhall": "dhall",
+    "hack": "hack",
+    "processing": "processing",
+    "hcl": "hcl",
+    "django-html": "django",
+    "django-txt": "django",
+    "gdscript": "godot",
+    "gdresource": "godot-assets",
+    "gdshader": "godot-assets",
+    "prolog": "prolog",
+    "pawn": "pawn",
+    "sml": "sml",
+    "sas": "sas",
+    "search-result": "search",
+    "mcfunction": "minecraft",
+    "rescript": "rescript",
+    "grain": "grain",
+    "lolcode": "lolcode",
+    "idris": "idris",
+    "pgn": "chess",
+    "gemini": "gemini",
+    "text-gemini": "gemini",
+    "wolfram": "wolframlanguage",
+    "tree": "tree",
+    "cadence": "cadence",
+    "stylable": "stylable",
     "viml": "vim",
     "tex": "_file_tex",
     "doctex": "_file_tex",
@@ -807,6 +962,50 @@
     "GRPC": "_folder_grpc_open"
   },
   "fileNames": {
+    ".percy.yml": "percy",
+    "codeowners": "codeowners",
+    "OWNERS": "codeowners",
+    "playwright.config.js": "playwright",
+    "playwright.config.mjs": "playwright",
+    "playwright.config.ts": "playwright",
+    "playwright.config.base.js": "playwright",
+    "playwright.config.base.mjs": "playwright",
+    "playwright.config.base.ts": "playwright",
+    "playwright-ct.config.js": "playwright",
+    "playwright-ct.config.mjs": "playwright",
+    "playwright-ct.config.ts": "playwright",
+    "jest.config.cjs": "_file_jest",
+    "jest.config.mjs": "_file_jest",
+    "jest.config.cts": "_file_jest",
+    "jest.config.mts": "_file_jest",
+    "jest.e2e.config.js": "_file_jest",
+    "jest.e2e.config.cjs": "_file_jest",
+    "jest.e2e.config.mjs": "_file_jest",
+    "jest.e2e.config.ts": "_file_jest",
+    "jest.e2e.config.cts": "_file_jest",
+    "jest.e2e.config.mts": "_file_jest",
+    "jest.e2e.config.json": "_file_jest",
+    "jest.e2e.json": "_file_jest",
+    "jest-unit.config.js": "_file_jest",
+    "jest-e2e.config.js": "_file_jest",
+    "jest-e2e.config.cjs": "_file_jest",
+    "jest-e2e.config.mjs": "_file_jest",
+    "jest-e2e.config.ts": "_file_jest",
+    "jest-e2e.config.cts": "_file_jest",
+    "jest-e2e.config.mts": "_file_jest",
+    "jest-e2e.config.json": "_file_jest",
+    "jest-e2e.json": "_file_jest",
+    "jest-github-actions-reporter.js": "_file_jest",
+    ".jestrc.js": "_file_jest",
+    ".jestrc.json": "_file_jest",
+    "jest-preset.json": "_file_jest",
+    "jest-preset.js": "_file_jest",
+    "jest-preset.cjs": "_file_jest",
+    "jest-preset.mjs": "_file_jest",
+    "jest.preset.js": "_file_jest",
+    "jest.preset.mjs": "_file_jest",
+    "jest.preset.cjs": "_file_jest",
+    "jest.preset.json": "_file_jest",
     ".git": "_file_git",
     ".gitmessage": "_file_git",
     ".gitignore-global": "_file_git",
@@ -1187,6 +1386,10 @@
     ".gitattributes": "file_gitignore",
     ".gitmodules": "file_gitignore",
     ".editorconfig": "file_editorconfig",
+    ".yarnclean": "file_yarn",
+    ".yarn-integrity": "file_yarn",
+    ".yarnrc.yml": "file_yarn",
+    ".yarnrc.yaml": "file_yarn",
     ".yarnrc": "file_yarn",
     "yarn-error.log": "file_yarn",
     "yarn.lock": "_file_yarn-lock",
@@ -1242,6 +1445,85 @@
     ".sequelizerc": "file_sequelize"
   },
   "fileExtensions": {
+    "st.css": "stylable",
+    "cdc": "cadence",
+    "tree": "tree",
+    "wolfram": "wolframlanguage",
+    "gmi": "gemini",
+    "gemini": "gemini",
+    "pgn": "chess",
+    "fen": "chess",
+    "idr": "idris",
+    "ibc": "idris",
+    "lol": "lolcode",
+    "gr": "grain",
+    "res": "rescript",
+    "mcfunction": "minecraft",
+    "mcmeta": "minecraft",
+    "mcr": "minecraft",
+    "mca": "minecraft",
+    "mcgame": "minecraft",
+    "mclevel": "minecraft",
+    "mcworld": "minecraft",
+    "mine": "minecraft",
+    "mus": "minecraft",
+    "mcstructure": "minecraft",
+    "mcpack": "minecraft",
+    "mcaddon": "minecraft",
+    "mctemplate": "minecraft",
+    "mcproject": "minecraft",
+    "code-search": "search",
+    "sas": "sas",
+    "sas7bdat": "sas",
+    "sashdat": "sas",
+    "astore": "sas",
+    "ast": "sas",
+    "sast": "sas",
+    "sml": "sml",
+    "mlton": "sml",
+    "mlb": "sml",
+    "sig": "sml",
+    "fun": "sml",
+    "cm": "sml",
+    "lex": "sml",
+    "use": "sml",
+    "grm": "sml",
+    "pwn": "pawn",
+    "amx": "pawn",
+    "p": "prolog",
+    "pro": "prolog",
+    "gd": "godot",
+    "godot": "godot-assets",
+    "tres": "godot-assets",
+    "tscn": "godot-assets",
+    "gdns": "godot-assets",
+    "gdnlib": "godot-assets",
+    "gdshader": "godot-assets",
+    "gdshaderinc": "godot-assets",
+    "gdextension": "godot-assets",
+    "djt": "django",
+    "hcl": "hcl",
+    "pde": "processing",
+    "dhall": "dhall",
+    "dhallb": "dhall",
+    "riot": "riot",
+    "tag": "riot",
+    "apib": "apiblueprint",
+    "apiblueprint": "apiblueprint",
+    "nim": "nim",
+    "nimble": "nim",
+    "feature": "cucumber",
+    "features": "cucumber",
+    "cake": "cake",
+    "yang": "yang",
+    "au3": "autoit",
+    "sol": "solidity",
+    "robot": "robot",
+    "mojo": "mojo",
+    "🔥": "mojo",
+    "vbhtml": "razor",
+    "blink": "blink",
+    "unity": "shaderlab",
     "template": "template",
     "vimrc": "vim",
     "gvimrc": "vim",
@@ -1385,7 +1667,7 @@
     "heex": "_file_elixir",
     "ls": "livescript",
     "pure": "purescript",
-    "purs": "purescript", 
+    "purs": "purescript",
     "tpl": "smarty",
     "cmj": "bucklescript",
     "jsconfig.json": "jsconfig",
