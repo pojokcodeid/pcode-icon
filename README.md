@@ -6,7 +6,7 @@
 ![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-icon/main/img4.png)
 ![CAPTURE!](https://raw.githubusercontent.com/pojokcodeid/pcode-icon/main/img5.png)
 
-## Terima Kasih Untuk
+## Credits
 
 <a href="https://github.com/cadamsdev/vscode-jetbrains-icon-theme">vscode-jetbrains-icon-theme</a><br>
 <a href="https://github.com/material-theme/vsc-material-theme-icons">Material Theme Icon</a><br>
@@ -14,9 +14,9 @@
 <a href="https://github.com/PKief/vscode-material-product-icons">vscode-material-product-icons</a><br>
 <a href="https://github.com/pojokcodeid/vscode-fluent-icon-theme">vscode-fluent-icon-theme</a>
 
-## Untuk Setting Jarak Icon Bagian Kiri
+## Setting Icon Style
 
-- buka file setting.json
+- Open vscode file setting.json
 
 ```json
 {
