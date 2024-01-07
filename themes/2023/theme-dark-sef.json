@@ -1,5 +1,110 @@
 {
   "iconDefinitions": {
+    "javascript-map": {
+      "iconPath": "./icons/javascript-map.svg"
+    },
+    "merlin": {
+      "iconPath": "./icons/merlin.svg"
+    },
+    "verilog": {
+      "iconPath": "./icons/verilog.svg"
+    },
+    "mathematica": {
+      "iconPath": "./icons/mathematica.svg"
+    },
+    "vfl": {
+      "iconPath": "./icons/vfl.svg"
+    },
+    "kl": {
+      "iconPath": "./icons/kl.svg"
+    },
+    "restql": {
+      "iconPath": "./icons/restql.svg"
+    },
+    "kivy": {
+      "iconPath": "./icons/kivy.svg"
+    },
+    "graphcool": {
+      "iconPath": "./icons/graphcool.svg"
+    },
+    "sbt": {
+      "iconPath": "./icons/sbt.svg"
+    },
+    "figma": {
+      "iconPath": "./icons/figma.svg"
+    },
+    "drone": {
+      "iconPath": "./icons/drone.svg"
+    },
+    "cuda": {
+      "iconPath": "./icons/cuda.svg"
+    },
+    "dotjs": {
+      "iconPath": "./icons/dotjs.svg"
+    },
+    "wepy": {
+      "iconPath": "./icons/wepy.svg"
+    },
+    "san": {
+      "iconPath": "./icons/san.svg"
+    },
+    "red": {
+      "iconPath": "./icons/red.svg"
+    },
+    "foxpro": {
+      "iconPath": "./icons/foxpro.svg"
+    },
+    "i18n": {
+      "iconPath": "./icons/i18n.svg"
+    },
+    "webassembly": {
+      "iconPath": "./icons/webassembly.svg"
+    },
+    "d": {
+      "iconPath": "./icons/d.svg"
+    },
+    "mdsvex": {
+      "iconPath": "./icons/mdsvex.svg"
+    },
+    "ballerina": {
+      "iconPath": "./icons/ballerina.svg"
+    },
+    "racket": {
+      "iconPath": "./icons/racket.svg"
+    },
+    "bazel": {
+      "iconPath": "./icons/bazel.svg"
+    },
+    "mint": {
+      "iconPath": "./icons/mint.svg"
+    },
+    "velocity": {
+      "iconPath": "./icons/velocity.svg"
+    },
+    "azure-pipelines": {
+      "iconPath": "./icons/azure-pipelines.svg"
+    },
+    "azure": {
+      "iconPath": "./icons/azure.svg"
+    },
+    "vagrant": {
+      "iconPath": "./icons/vagrant.svg"
+    },
+    "abc": {
+      "iconPath": "./icons/abc.svg"
+    },
+    "edge": {
+      "iconPath": "./icons/edge.svg"
+    },
+    "scheme": {
+      "iconPath": "./icons/scheme.svg"
+    },
+    "lisp": {
+      "iconPath": "./icons/lisp.svg"
+    },
+    "3d": {
+      "iconPath": "./icons/3d.svg"
+    },
     "stylable": {
       "iconPath": "./icons/stylable.svg"
     },
@@ -10381,6 +10486,96 @@
     ".sequelizerc": "file_sequelize"
   },
   "fileExtensions": {
+    "d.cts": "_file_typescript_def",
+    "d.mts": "_file_typescript_def",
+    "cjs.map": "javascript-map",
+    "merlin": "merlin",
+    "vhd": "verilog",
+    "sv": "verilog",
+    "svh": "verilog",
+    "nb": "mathematica",
+    "wl": "wolframlanguage",
+    "wls": "wolframlanguage",
+    "nunjucks": "_file_nunjucks",
+    "tf.json": "file_terraform",
+    "tfbackend": "file_terraform",
+    "ipa": "_file_applescript",
+    "vfl": "vfl",
+    "kl": "kl",
+    "sss": "file_postcss",
+    "rql": "restql",
+    "restql": "restql",
+    "kv": "kivy",
+    "graphcool": "graphcool",
+    "sbt": "sbt",
+    "apk": "_file_android",
+    "smali": "_file_android",
+    "dex": "_file_android",
+    "env": "_file_tune",
+    "gitlab-ci.yml": "_file_gitlab",
+    "jenkinsfile": "_file_jenkins",
+    "jenkins": "_file_jenkins",
+    "fig": "figma",
+    "drone.yml": "drone",
+    "cu": "cuda",
+    "cuh": "cuda",
+    "dot": "dotjs",
+    "jst": "dotjs",
+    "def": "dotjs",
+    ".wakatime-project": "_file_wakatime",
+    "stories.mdx": "_file_storybook",
+    "stories.svelte": "_file_storybook",
+    "story.mdx": "_file_storybook",
+    "wpy": "wepy",
+    "san": "san",
+    "red": "red",
+    "mk": "file_makefile",
+    "fxp": "foxpro",
+    "prg": "foxpro",
+    "po": "i18n",
+    "mo": "i18n",
+    "lang": "i18n",
+    "wat": "webassembly",
+    "wasm": "webassembly",
+    "d": "d",
+    "svx": "mdsvex",
+    "bal": "ballerina",
+    "balx": "ballerina",
+    "rkt": "racket",
+    "bzl": "bazel",
+    "bazel": "bazel",
+    "mint": "mint",
+    "fhtml": "velocity",
+    "vtl": "velocity",
+    "vm": "velocity",
+    "azure-pipelines.yaml": "azure-pipelines",
+    "azcli": "azure",
+    "azure-pipelines.yml": "azure-pipelines",
+    "vagrantfile": "vagrant",
+    "abc": "abc",
+    "edge": "edge",
+    "scm": "scheme",
+    "ss": "scheme",
+    "lsp": "lisp",
+    "cl": "lisp",
+    "fast": "lisp",
+    "lisp": "lisp",
+    "stl": "3d",
+    "stp": "3d",
+    "obj": "3d",
+    "o": "3d",
+    "ac": "3d",
+    "blend": "3d",
+    "dxf": "3d",
+    "fbx": "3d",
+    "mesh": "3d",
+    "mqo": "3d",
+    "pmd": "3d",
+    "pmx": "3d",
+    "skp": "3d",
+    "vac": "3d",
+    "vdp": "3d",
+    "vox": "3d",
     "st.css": "stylable",
     "cdc": "cadence",
     "tree": "tree",
