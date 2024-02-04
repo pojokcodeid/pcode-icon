@@ -1014,6 +1014,7 @@
   "rootFolder": "_root_folder_dark",
   "rootFolderExpanded": "_root_folder_open_dark",
   "fileExtensions": {
+    "csv": "_csv_file",
     "d.cts": "_file_typescript_def",
     "d.mts": "_file_typescript_def",
     "cjs.map": "javascript-map",
