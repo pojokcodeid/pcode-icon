@@ -1,5 +1,54 @@
 {
   "iconDefinitions": {
+    "file_gleam": {
+      "iconPath": "./icons/gleam_dark.svg"
+    },
+    "file_gomodsum": {
+      "iconPath": "./icons/gomodsum.svg"
+    },
+    "file_elixir": {
+      "iconPath": "./icons/elixir_dark.svg"
+    },
+    "file_beam": {
+      "iconPath": "./icons/beam.svg"
+    },
+    "file_embedded_elixir": {
+      "iconPath": "./icons/eex_dark.svg"
+    },
+    "file_swift": {
+      "iconPath": "./icons/swift.svg"
+    },
+    "file_clojure": {
+      "iconPath": "./icons/clojure.svg"
+    },
+    "file_protobuf": {
+      "iconPath": "./icons/protobuf.svg"
+    },
+    "file_hcl": {
+      "iconPath": "./icons/hcl_dark.svg"
+    },
+    "file_rego": {
+      "iconPath": "./icons/rego.svg"
+    },
+    "file_application": {
+      "iconPath": "./icons/application_dark.svg"
+    },
+    "file_jupyter": {
+      "iconPath": "./icons/jupyter.svg"
+    },
+    "file_mdx": {
+      "iconPath": "./icons/mdx.svg"
+    },
+    "file_erlang": {
+      "iconPath": "./icons/erlang.svg"
+    },
+    "file_lua": {
+      "iconPath": "./icons/lua.svg"
+    },
+    "file_haskell": {
+      "iconPath": "./icons/haskell.svg"
+    },
+
     "rubocop": {
       "iconPath": "./icons/rubocop.svg"
     },
@@ -774,6 +823,58 @@
   "folderExpanded": "open_dark",
   "folderNames": {},
   "fileNames": {
+    ".gitignore": "file_gitignore",
+    ".gitattributes": "file_gitignore",
+    ".gitmodules": "file_gitignore",
+    ".editorconfig": "file_editorconfig",
+    ".yarnrc": "file_yarn",
+    "yarn.lock": "file_yarn",
+    "README": "file_markdown",
+    ".dockerignore": "file_ignored",
+    "Dockerfile": "file_docker",
+    "Dockerfile.dev": "file_docker",
+    "Dockerfile.test": "file_docker",
+    "Dockerfile.staging": "file_docker",
+    "Dockerfile.prod": "file_docker",
+    "Dockerfile.production": "file_docker",
+    "Gemfile": "file_gemfile",
+    "Gemfile.lock": "file_gemfile",
+    "Makefile": "file_makefile",
+    ".env": "file_any",
+    ".env.local": "file_any",
+    ".env.test": "file_any",
+    ".env.example": "file_any",
+    ".env.development": "file_any",
+    ".env.production": "file_any",
+    ".env.test.local": "file_any",
+    ".env.development.local": "file_any",
+    ".env.production.local": "file_any",
+    "Cargo.toml": "file_cargo",
+    "rust-toolchain.toml": "file_cargo",
+    "Cargo.lock": "file_cargolock",
+    "CMakeLists.txt": "file_cmake",
+    "pnpm-lock.yaml": "file_pnpm",
+    "pnpm-workspace.yaml": "file_pnpm",
+    "tailwind.config.js": "file_tailwind",
+    "tailwind.config.cjs": "file_tailwind",
+    "tailwind.config.ts": "file_tailwind",
+    "vite.config.js": "file_vite",
+    "vite.config.cjs": "file_vite",
+    "vite.config.ts": "file_vite",
+    "postcss.config.js": "file_postcss",
+    "postcss.config.cjs": "file_postcss",
+    "postcss.config.ts": "file_postcss",
+    "angular.json": "file_angular",
+    ".eslintrc": "file_eslint",
+    ".eslintrc.cjs": "file_eslint",
+    ".eslintrc.js": "file_eslint",
+    ".eslintrc.ts": "file_eslint",
+    ".eslintrc.json": "file_eslint",
+    ".eslintrc.yml": "file_eslint",
+    ".eslintrc.yaml": "file_eslint",
+    ".eslintignore": "file_eslint",
+    "go.mod": "file_gomodsum",
+    "go.sum": "file_gomodsum",
     ".hhconfig": "hack",
     ".pug-lintrc": "_file_pug",
     ".pug-lintrc.js": "_file_pug",
@@ -807,8 +908,6 @@
     "astro.config.ts": "_file_astro",
     "astro.config.cts": "_file_astro",
     "astro.config.mts": "_file_astro",
-    "go.mod": "go-mod",
-    "go.sum": "go-mod",
     "go.work": "go-mod",
     "go.work.sum": "go-mod",
     "requirements.txt": "python-misc",
@@ -1369,59 +1468,11 @@
     "licence.md": "certificate",
     "licence.rst": "certificate",
     "licence.txt": "certificate",
-    ".gitignore": "file_gitignore",
-    ".gitattributes": "file_gitignore",
-    ".gitmodules": "file_gitignore",
-    ".editorconfig": "file_editorconfig",
     ".yarnclean": "file_yarn",
     ".yarn-integrity": "file_yarn",
     ".yarnrc.yml": "file_yarn",
     ".yarnrc.yaml": "file_yarn",
-    ".yarnrc": "file_yarn",
     "yarn-error.log": "file_yarn",
-    "yarn.lock": "_file_yarn-lock",
-    "README": "file_markdown",
-    ".dockerignore": "file_ignored",
-    "Dockerfile": "file_docker",
-    "Dockerfile.test": "file_docker",
-    "Dockerfile.staging": "file_docker",
-    "Dockerfile.production": "file_docker",
-    "Gemfile": "file_gemfile",
-    "Gemfile.lock": "file_gemfile",
-    "Makefile": "file_makefile",
-    ".env": "file_dotenv",
-    ".env.local": "file_any",
-    ".env.test": "file_any",
-    ".env.example": "file_any",
-    ".env.development": "file_any",
-    ".env.production": "file_any",
-    ".env.test.local": "file_any",
-    ".env.development.local": "file_any",
-    ".env.production.local": "file_any",
-    "Cargo.toml": "file_cargo",
-    "rust-toolchain.toml": "file_cargo",
-    "Cargo.lock": "file_cargolock",
-    "CMakeLists.txt": "file_cmake",
-    "pnpm-lock.yaml": "file_pnpm",
-    "pnpm-workspace.yaml": "file_pnpm",
-    "tailwind.config.js": "file_tailwind",
-    "tailwind.config.cjs": "file_tailwind",
-    "tailwind.config.ts": "file_tailwind",
-    "vite.config.js": "file_vite",
-    "vite.config.cjs": "file_vite",
-    "vite.config.ts": "file_vite",
-    "postcss.config.js": "file_postcss",
-    "postcss.config.cjs": "file_postcss",
-    "postcss.config.ts": "file_postcss",
-    "angular.json": "file_angular",
-    ".eslintrc": "file_eslint",
-    ".eslintrc.cjs": "file_eslint",
-    ".eslintrc.js": "file_eslint",
-    ".eslintrc.ts": "file_eslint",
-    ".eslintrc.json": "file_eslint",
-    ".eslintrc.yml": "file_eslint",
-    ".eslintrc.yaml": "file_eslint",
-    ".eslintignore": "file_eslint",
     "package.json": "_file_npm",
     ".npmignore": "_file_npm",
     ".npmrc": "_file_npm",
