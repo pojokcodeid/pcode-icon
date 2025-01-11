@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "drizzle": {
+      "iconPath": "./icons/drizzle.svg"
+    },
     "file_text": {
       "iconPath": "./icons/text.svg"
     },
@@ -188,6 +191,7 @@
   "folder": "folder",
   "folderNames": {},
   "fileNames": {
+    "drizzle.config.ts": "drizzle",
     ".gitignore": "file_gitignore",
     ".gitattributes": "file_gitignore",
     ".gitmodules": "file_gitignore",

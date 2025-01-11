@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "drizzle": {
+      "iconPath": "./icons/drizzle.svg"
+    },
     "rubocop": {
       "iconPath": "./icons/rubocop.svg"
     },
@@ -10009,6 +10012,7 @@
     "juliamarkdown": "_file_julia"
   },
   "fileNames": {
+    "drizzle.config.ts": "drizzle",
     ".hhconfig": "hack",
     ".pug-lintrc": "_file_pug",
     ".pug-lintrc.js": "_file_pug",

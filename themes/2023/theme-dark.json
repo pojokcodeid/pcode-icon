@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "drizzle": {
+      "iconPath": "./icons/drizzle.svg"
+    },
     "file_gleam": {
       "iconPath": "./icons/gleam_dark.svg"
     },
@@ -823,6 +826,7 @@
   "folderExpanded": "open_dark",
   "folderNames": {},
   "fileNames": {
+    "drizzle.config.ts": "drizzle",
     ".gitignore": "file_gitignore",
     ".gitattributes": "file_gitignore",
     ".gitmodules": "file_gitignore",

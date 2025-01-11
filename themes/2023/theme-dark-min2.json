@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "drizzle": {
+      "iconPath": "./icons/drizzle.svg"
+    },
     "rubocop": {
       "iconPath": "./icons/rubocop.svg"
     },
@@ -1073,6 +1076,7 @@
     "GRPC": "_folder_grpc_open"
   },
   "fileNames": {
+    "drizzle.config.ts": "drizzle",
     ".hhconfig": "hack",
     ".pug-lintrc": "_file_pug",
     ".pug-lintrc.js": "_file_pug",
