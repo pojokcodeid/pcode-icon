@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "vitest": {
+      "iconPath": "./icons/vitest.svg"
+    },
     "commitlint": {
       "iconPath": "./icons/commitlint.svg"
     },
@@ -775,6 +778,15 @@
   "file": "file_any",
   "folderNames": {},
   "fileNames": {
+    "vitest.config.ts": "vitest",
+    "vitest.config.mts": "vitest",
+    "vitest.config.cts": "vitest",
+    "vitest.config.js": "vitest",
+    "vitest.config.mjs": "vitest",
+    "vitest.config.cjs": "vitest",
+    "vitest.config.tsx": "vitest",
+    "vitest.config.jsx": "vitest",
+    "vitest.config.json": "vitest",
     ".commitlintrc": "commitlint",
     ".commitlintrc.json": "commitlint",
     ".commitlintrc.jsonc": "commitlint",

@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "vitest": {
+      "iconPath": "./icons/vitest.svg"
+    },
     "commitlint": {
       "iconPath": "./icons/commitlint.svg"
     },
@@ -829,6 +832,16 @@
   "folderExpanded": "open_dark",
   "folderNames": {},
   "fileNames": {
+    "json5": "file_json",
+    "vitest.config.ts": "vitest",
+    "vitest.config.mts": "vitest",
+    "vitest.config.cts": "vitest",
+    "vitest.config.js": "vitest",
+    "vitest.config.mjs": "vitest",
+    "vitest.config.cjs": "vitest",
+    "vitest.config.tsx": "vitest",
+    "vitest.config.jsx": "vitest",
+    "vitest.config.json": "vitest",
     ".commitlintrc": "commitlint",
     ".commitlintrc.json": "commitlint",
     ".commitlintrc.jsonc": "commitlint",
@@ -892,6 +905,7 @@
     "Gemfile.lock": "file_gemfile",
     "Makefile": "file_makefile",
     ".env": "file_dotenv",
+    ".env_example": "file_dotenv",
     ".env.local": "file_dotenv",
     ".env.test": "file_dotenv",
     ".env.example": "file_dotenv",
@@ -910,12 +924,15 @@
     "tailwind.config.cjs": "file_tailwind",
     "tailwind.config.ts": "file_tailwind",
     "vite.config.js": "file_vite",
+    "vite": "file_vite",
     "vite.config.cjs": "file_vite",
     "vite.config.ts": "file_vite",
     "postcss.config.js": "file_postcss",
     "postcss.config.cjs": "file_postcss",
     "postcss.config.ts": "file_postcss",
     "angular.json": "file_angular",
+    "esbuild": "file_eslint",
+    "eslint": "file_eslint",
     ".eslintrc": "file_eslint",
     ".eslintrc.cjs": "file_eslint",
     ".eslintrc.js": "file_eslint",

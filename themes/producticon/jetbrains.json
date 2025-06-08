@@ -1,0 +1,272 @@
+{
+  "fonts": [
+    {
+      "id": "jetbrains-new-ui-product-icons",
+      "src": [
+        {
+          "path": "./jetbrains.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "account": {
+      "fontCharacter": "\\E000"
+    },
+    "add": {
+      "fontCharacter": "\\E001"
+    },
+    "alert": {
+      "fontCharacter": "\\E002"
+    },
+    "arrow-both": {
+      "fontCharacter": "\\E003"
+    },
+    "arrow-down": {
+      "fontCharacter": "\\E004"
+    },
+    "arrow-left": {
+      "fontCharacter": "\\E005"
+    },
+    "arrow-right": {
+      "fontCharacter": "\\E006"
+    },
+    "arrow-up": {
+      "fontCharacter": "\\E007"
+    },
+    "case-sensitive": {
+      "fontCharacter": "\\E008"
+    },
+    "check": {
+      "fontCharacter": "\\E009"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\E00A"
+    },
+    "chevron-left": {
+      "fontCharacter": "\\E00B"
+    },
+    "chevron-right": {
+      "fontCharacter": "\\E00C"
+    },
+    "chevron-up": {
+      "fontCharacter": "\\E00D"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\E00E"
+    },
+    "database": {
+      "fontCharacter": "\\E00F"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\E010"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\E011"
+    },
+    "debug-ll": {
+      "fontCharacter": "\\E012"
+    },
+    "debug": {
+      "fontCharacter": "\\E013"
+    },
+    "discard": {
+      "fontCharacter": "\\E014"
+    },
+    "ellipsis": {
+      "fontCharacter": "\\E015"
+    },
+    "error": {
+      "fontCharacter": "\\E016"
+    },
+    "extensions": {
+      "fontCharacter": "\\E017"
+    },
+    "file-add": {
+      "fontCharacter": "\\E018"
+    },
+    "file-directory-create": {
+      "fontCharacter": "\\E019"
+    },
+    "file": {
+      "fontCharacter": "\\E01A"
+    },
+    "files": {
+      "fontCharacter": "\\E01B"
+    },
+    "gear": {
+      "fontCharacter": "\\E01C"
+    },
+    "git-branch-create": {
+      "fontCharacter": "\\E01D"
+    },
+    "git-branch-delete": {
+      "fontCharacter": "\\E01E"
+    },
+    "git-branch": {
+      "fontCharacter": "\\E01F"
+    },
+    "git-commit": {
+      "fontCharacter": "\\E020"
+    },
+    "git-compare": {
+      "fontCharacter": "\\E021"
+    },
+    "git-fetch": {
+      "fontCharacter": "\\E022"
+    },
+    "git-merge": {
+      "fontCharacter": "\\E023"
+    },
+    "git-pull-request": {
+      "fontCharacter": "\\E024"
+    },
+    "history": {
+      "fontCharacter": "\\E025"
+    },
+    "keyboard": {
+      "fontCharacter": "\\E026"
+    },
+    "layout": {
+      "fontCharacter": "\\E027"
+    },
+    "library": {
+      "fontCharacter": "\\E028"
+    },
+    "list-tree": {
+      "fontCharacter": "\\E029"
+    },
+    "lock": {
+      "fontCharacter": "\\E02A"
+    },
+    "merge": {
+      "fontCharacter": "\\E02B"
+    },
+    "more": {
+      "fontCharacter": "\\E02C"
+    },
+    "new-file": {
+      "fontCharacter": "\\E02D"
+    },
+    "new-folder": {
+      "fontCharacter": "\\E02E"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\E02F"
+    },
+    "pass": {
+      "fontCharacter": "\\E030"
+    },
+    "pencil": {
+      "fontCharacter": "\\E031"
+    },
+    "play": {
+      "fontCharacter": "\\E032"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\E033"
+    },
+    "record-keys": {
+      "fontCharacter": "\\E034"
+    },
+    "refresh": {
+      "fontCharacter": "\\E035"
+    },
+    "regex": {
+      "fontCharacter": "\\E036"
+    },
+    "remove": {
+      "fontCharacter": "\\E037"
+    },
+    "search": {
+      "fontCharacter": "\\E038"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\E039"
+    },
+    "source-control": {
+      "fontCharacter": "\\E03A"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\E03B"
+    },
+    "split-vertical": {
+      "fontCharacter": "\\E03C"
+    },
+    "symbol-class": {
+      "fontCharacter": "\\E03D"
+    },
+    "symbol-constant": {
+      "fontCharacter": "\\E03E"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "\\E03F"
+    },
+    "symbol-enum": {
+      "fontCharacter": "\\E040"
+    },
+    "symbol-field": {
+      "fontCharacter": "\\E041"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\E042"
+    },
+    "symbol-interface": {
+      "fontCharacter": "\\E043"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\E044"
+    },
+    "symbol-module": {
+      "fontCharacter": "\\E045"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\E046"
+    },
+    "symbol-operator": {
+      "fontCharacter": "\\E047"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\E048"
+    },
+    "symbol-struct": {
+      "fontCharacter": "\\E049"
+    },
+    "symbol-value": {
+      "fontCharacter": "\\E04A"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\E04B"
+    },
+    "tools": {
+      "fontCharacter": "\\E04C"
+    },
+    "trash": {
+      "fontCharacter": "\\E04D"
+    },
+    "trashcan": {
+      "fontCharacter": "\\E04E"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "\\E04F"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "\\E050"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\E051"
+    },
+    "unlock": {
+      "fontCharacter": "\\E052"
+    },
+    "warning": {
+      "fontCharacter": "\\E053"
+    },
+    "whole-word": {
+      "fontCharacter": "\\E054"
+    }
+  }
+}
