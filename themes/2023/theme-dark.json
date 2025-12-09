@@ -1675,6 +1675,10 @@
     "git-rebase": "_file_git",
     "git": "_file_git",
     "go": "_file_go",
+    "go.sum": "file_gomodsum",
+    "go.mod": "file_gomodsum",
+    "gotmpl": "_file_go",
+    "go.work": "go-mod",
     "groovy": "_file_groovy",
     "handlebars": "_file_handlebars",
     "haxe": "_file_haxe",
@@ -1737,7 +1741,14 @@
     "bibtex": "lib",
     "bibtex-style": "lib",
     "vue": "_file_vue",
-    "graphql": "_file_graphql"
+    "graphql": "_file_graphql",
+    "code-text-binary": "hex",
+    "snippets": "vscode",
+    "code-runner-output": "playwright",
+    "excel": "_file_table",
+    "dbclient-log": "_file_database",
+    "http": "file_http",
+    "wat": "webassembly"
   },
   "fileExtensions": {
     "d.cts": "_file_typescript_def",

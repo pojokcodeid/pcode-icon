@@ -2135,7 +2135,20 @@
     "cfml": "coldfusion",
     "bibtex": "_file_lib",
     "bibtex-style": "_file_lib",
-    "vue": "_vue_file"
+    "vue": "_vue_file",
+    "go.sum": "go",
+    "go.mod": "go-mod",
+    "gotmpl": "go",
+    "go.work": "go-mod",
+    "code-text-binary": "hex",
+    "snippets": "vscode",
+    "code-runner-output": "playwright",
+    "excel": "excel",
+    "dbclient-log": "_file_database",
+    "http": "_httprequests_file",
+    "wat": "webassembly",
+    "csv": "excel",
+    "tsv": "excel"
   },
   "fileNames": {
     ".commitlintrc": "commitlint",

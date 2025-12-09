@@ -1,5 +1,8 @@
 {
   "iconDefinitions": {
+    "file_gomodsum": {
+      "iconPath": "./icons/gomodsum.svg"
+    },
     "vitest": {
       "iconPath": "./icons/vitest.svg"
     },
@@ -1620,7 +1623,21 @@
     "bibtex": "lib",
     "bibtex-style": "lib",
     "vue": "_file_vue",
-    "graphql": "_file_graphql"
+    "graphql": "_file_graphql",
+    "go.sum": "file_gomodsum",
+    "go.mod": "file_gomodsum",
+    "gotmpl": "_file_go",
+    "go.work": "go-mod",
+    "code-text-binary": "hex",
+    "snippets": "vscode",
+    "code-runner-output": "playwright",
+    "excel": "_file_table",
+    "dbclient-log": "_file_database",
+    "http": "file_http",
+    "wat": "webassembly",
+    "csv": "_file_table",
+    "tsv": "_file_table",
+    "log": "_file_changelog"
   },
   "fileExtensions": {
     "d.cts": "_file_typescript_def",
